@@ -1,3 +1,8 @@
 # Spring 2023 CISC-5006 Public Repository
 
-In this repository, you'll find links to required readings etc.
+This repository contains class materials for the Spring 2023 CISC-5006 class. I'll be periodically updating this repository with supplemental reading, assignments, and projects.
+
+### Homework
+
+- [HW1](/CISC-5006-HW1.md)
+
