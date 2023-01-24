@@ -38,3 +38,12 @@ This repository contains class materials for the Spring 2023 CISC-5006 class. I'
 - [Open Data Structures Boook](http://opendatastructures.org/ods-cpp/)
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Data Structure Visualization (VisualGo)](https://visualgo.net/en)
+
+#### Shell, MacOS, Unix
+
+Note that MacOS is heavily influenced by Unix so all of these resources apply to OSX as well (mostly).
+
+- [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag)
+- [Learning the Linux File System](https://youtu.be/HIXzJ3Rz9po)
+- [Fundamental File Management Commands](https://www.redhat.com/sysadmin/linux-file-management-commands)
+- [Hidden Files](https://www.zdnet.com/article/what-are-hidden-files-in-linux-and-how-do-you-create-them/)
