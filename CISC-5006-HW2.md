@@ -14,6 +14,8 @@ In this homework assignment, we will test our depth of knowledge of the topics c
 
 2. Copy the below into `homework2.cpp` and ensure your program builds and runs. You will notice warnings pop up when building `homework2.cpp` at this stage; that's OK. They are there because we have not implemented most of the functionality yet. I recommend creating another commit after copying the below into `homework2.cpp`.
 
+NOTE: In the grade intervals below, we have two notations: `[X, Y]` and `[X, Y)`. The former means from X to Y _including_ Y whereas the latter means from X to Y _not including_ Y. This notation comes from [math](https://www.math.net/interval-notation).
+
 
 ```cpp
 #include <iostream>
