@@ -10,6 +10,16 @@ This repository contains class materials for the Spring 2023 CISC-5006 class. I'
 - [HW3](/CISC-5006-HW3.md)
 - HW4 - N/A
 - [HW5](/CISC-5006-HW5.md)
+- [HW6](/CISC-5006-HW6.md)
+- [HW7](/CISC-5006-HW7.md)
+- [HW8](/CISC-5006-HW8.md)
+- [HW9](/CISC-5006-HW9.md)
+- [HW10](/CISC-5006-HW10.md)
+
+### Exams
+
+- [Midterm](/midterm/README.md)
+- [Final](/final/README.md)
 
 ### Resources
 ---
